@@ -1,5 +1,5 @@
-## Schott et al., 2022
-Code to generate analyses and figures in *Schott et al., 2022*
+## Schott et al., 2023
+Code to generate analyses and figures in *Schott et al., 2023*
 
 ***
 ### Overview
