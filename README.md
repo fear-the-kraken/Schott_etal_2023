@@ -70,7 +70,7 @@ For each experimental recording, all raw and processed data is stored in a uniqu
    * ```sp_highres_[recording name].mat``` - EEG spectrogram with higher time resolution than 2.5 s
    * ```laser_[recording name].mat``` - laser stimulation vector for optogenetic recordings
    * ```rem_trig_[recording name].mat``` - automatic REM detection for closed-loop optogenetic recordings
-   * ```DFF.mat``` - $\Delta$F/F calcium signal for fiber photometry recordings
+   * ```DFF.mat``` - &Delta;F/F calcium signal for fiber photometry recordings
 
 #### ```data```
 The ```data``` folder can be downloaded [here](https://upenn.box.com/v/schott-etal-data), and contains three recordings used to demonstrate the expected output of the code in ```demo_analysis.py``` (see **Example Analyses** for more information). Mouse 1 was used to record P-waves, Mouse 2 is from a fiber photometry experiment, and Mouse 3 was used to analyze laser-triggered P-waves.
